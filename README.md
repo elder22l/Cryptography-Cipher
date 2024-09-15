@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6B4R4Y1s)
+No merge/push history because code was copied from school project.
+This project was originally done using Github on Mount Holyoke's team.
+
+All code in this project was written by me 
